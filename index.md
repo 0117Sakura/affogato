@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the world
 
 You can use the [editor on GitHub](https://github.com/0117Sakura/affogato/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
